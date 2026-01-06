@@ -1,5 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "download_url": "https://raw.githubusercontent.com/ahmes7moza/MYSOMETHING/refs/heads/main/LegendMacro.exe",
   "release_notes": "Initial release with auto-update support for .exe and .py"
 }
+
